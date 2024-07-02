@@ -23,7 +23,7 @@
 
 # Web3 Journey
 ## __Here's the links to the path I followed__. </br> ***Just click on the logo***
-![banner ](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ3YzZqODZjcW9hd2g3YXJxYncxaWRjNzhoYmRxdjRhbWxic3R4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/At6wTWZ0mJRtHrrgHv/giphy.gif) [![logo](./Suitec9/Suitec9/assets/public/learnweb3.png)](https://learnweb3.io/) [![logo ALchemy](./Suitec9/assets/public/alchemy.png)](https://www.alchemy.com/university) [![updraft](./Suitec9/Suitec9/assets/public/cyfrin-updraft.png)](https://updraft.cyfrin.io/courses) [![bootcampLogo](./Suitec9/Suitec9/assets/public/blockmagic.png)](https://docs.chain.link/) 
+![banner ](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ3YzZqODZjcW9hd2g3YXJxYncxaWRjNzhoYmRxdjRhbWxic3R4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/At6wTWZ0mJRtHrrgHv/giphy.gif) [![logo](./Suitec9/Suitec9/assets/public/learnweb3.png)](https://learnweb3.io/) [![logo ALchemy](./Suitec9/Suitec9/assets/public/alchemy.png)](https://www.alchemy.com/university) [![updraft](./Suitec9/Suitec9/assets/public/cyfrin-updraft.png)](https://updraft.cyfrin.io/courses) [![bootcampLogo](./Suitec9/Suitec9/assets/public/blockmagic.png)](https://docs.chain.link/) 
 [![speedLogo](./Suitec9/Suitec9/assets/public/speedrun.png)](https://speedrunethereum.com/)
 ## My Profile
 [![Static Badge](https://img.shields.io/badge/Twitter-Profile-FlipsNOW13?style=plastic&labelColor=blue)
