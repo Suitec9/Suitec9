@@ -36,6 +36,7 @@ Welcome to my Web3 journey! This README showcases my profile and experiences in 
 # ***Proof of work***
 
 ![Suitec9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suitec9&show_icons=true&theme=synthwave)
+![badge](https://badges.layer5.io/assets/badges/first-design/first-design.png) 
 
 ## __First open-source-contribution__
 
