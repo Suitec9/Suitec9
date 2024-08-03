@@ -21,19 +21,12 @@
   </foreignObject>
 </svg>-->
 
-# Web3 Journey
-## __Here's the links to the path I followed__. </br> ***Just click on the logo***! Don't click the gif animation __LOGOS__ are the links to the learning platforms</br>  ✌️
-![banner ](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ3YzZqODZjcW9hd2g3YXJxYncxaWRjNzhoYmRxdjRhbWxic3R4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/At6wTWZ0mJRtHrrgHv/giphy.gif) [![logo](./Suitec9/Suitec9/assets/public/learnweb3.png)](https://learnweb3.io/) [![logo ALchemy](./Suitec9/Suitec9/assets/public/alchemy.png)](https://www.alchemy.com/university) [![updraft](./Suitec9/Suitec9/assets/public/cyfrin-updraft.png)](https://updraft.cyfrin.io/courses) [![bootcampLogo](./Suitec9/Suitec9/assets/public/blockmagic.png)](https://docs.chain.link/) 
-[![speedLogo](./Suitec9/Suitec9/assets/public/speedrun.png)](https://speedrunethereum.com/)
+
 ## My Profile
 [![Static Badge](https://img.shields.io/badge/Twitter-Profile-FlipsNOW13?style=plastic&labelColor=blue)
 ](https://twitter.com/FLipsNOW13) 
 [![Static Badge](https://img.shields.io/badge/Learnweb3-Profile-SinDBase?style=plastic&logo=learnweb3.io&labelColor=purple&color=gray)](https://learnweb3.io/u/SinDBase%2FSuitec9/)
 
-
-Welcome to my Web3 journey! This README showcases my profile and experiences in the decentralized web.
-
-# ***Proof of work***
 
 ![Suitec9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suitec9&show_icons=true&theme=synthwave)
 ![badge](https://badges.layer5.io/assets/badges/first-design/first-design.png) 
