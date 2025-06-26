@@ -31,8 +31,6 @@
 ![Suitec9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suitec9&show_icons=true&theme=synthwave)
 
 
-<img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="300" height="400">
-
 
 ## __First open-source-contribution__
 
